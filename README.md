@@ -37,12 +37,10 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 
 | 🌟 Recurso              | Enlace                                                                 |
 |-------------------------|------------------------------------------------------------------------|
-| 📁 Repositorio Oficial   | [TanjiroBot – GitHub](https://github.com/fedelan555/TanjiroBot)        |
-| 🧪 API Principal         | [Oceansaver API](https://p.oceansaver.in/)                             |
+| 📁 Repositorio Oficial   | [TanjiroBot – GitHub](https://github.com/fedelan555/AsunaBot-Al)        |
 | 🧑‍💻 Creador (GitHub)     | [fedelan555](https://github.com/fedelan555)                            |
-| 📧 Gmail de Contacto     | [fedelanyt20@gmail.com](mailto:fedelanyt20@gmail.com)                  |
-| 📸 Instagram Developer   | [@fedelan.dev](https://instagram.com/fedelan.dev)                      |
-| 💬 WhatsApp Soporte      | [Ir al chat](https://wa.me/573019648280)                              |
+| 📧 Gmail de Contacto     | [fedelanyt20@gmail.com](mailto:fedelanyt20@gmail.com)                  
+|
 | 📜 Licencia MIT          | [Ver detalle](https://opensource.org/licenses/MIT)                     |
 ---
 
