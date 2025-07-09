@@ -5,7 +5,7 @@
 # ⚔️ 𝑻𝒂𝒏𝒋𝒊𝒓𝒐_𝑩𝒐𝒕 🌸
 > *Respira profundo. El código también tiene alma.*
 
-Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios que elevan la experiencia digital en WhatsApp con comandos inspirados en el universo de *Kimetsu no Yaiba*. Su propósito: combatir la monotonía, proteger al usuario y entregar recursos visuales como si fueran katanas de información afilada.
+Este es el dojo oficial de **Tanjiro_Bot**, el bot legendario que eleva la experiencia digital en WhatsApp con comandos inspirados en el universo del anime *TANJIRO KAMADO*. Su propósito: combatir la monotonía, proteger al usuario y entregar recursos visuales como si fueran katanas de información afilada.
 
 ---
 
