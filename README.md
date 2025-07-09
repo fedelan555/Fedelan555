@@ -35,7 +35,7 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 
 ## 🍒 Editor de Bots
 
-✨ *Soy editor de bots y mi proyecto será* `Tanjiro_Bot` *y* `Asuna-Al`.
+✨ *Soy editor de bots y mi proyecto será* `Tanjiro_Bot`.
 🌀 *Cada línea que escribo tiene respiración, técnica y propósito. Nada se deja al azar.*
 🥋 *Este dojo crecerá con nuevos módulos, estilo anime y energía Hashira.*
 
@@ -54,8 +54,8 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 ## 👁️ Visitantes del Repositorio
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fedelan555/count.svg"/>
-<p>👁️ Visitantes del Dojo 👁️</p>
+  <img src="https://profile-counter.glitch.me/Fedelan555/count.svg" />
+  <p>👁️ Visitantes del Repositorio 👁️</p>
 </div>
 
 ---
