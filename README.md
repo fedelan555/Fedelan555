@@ -63,8 +63,8 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fedelanyt130&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedelanyt130&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fedelan5550&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedelan555&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fedelanyt130&theme=react-dark)
