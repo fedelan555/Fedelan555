@@ -33,12 +33,17 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 
 ---
 
-## 🍒 Editor de Bots
+## 🌐 Enlaces del Proyecto
 
-✨ *Soy editor de bots y mi proyecto será* `Tanjiro_Bot`.
-🌀 *Cada línea que escribo tiene respiración, técnica y propósito. Nada se deja al azar.*
-🥋 *Este dojo crecerá con nuevos módulos, estilo anime y energía Hashira.*
-
+| 🌟 Recurso              | Enlace                                                                 |
+|-------------------------|------------------------------------------------------------------------|
+| 📁 Repositorio Oficial   | [TanjiroBot – GitHub](https://github.com/fedelan555/TanjiroBot)        |
+| 🧪 API Principal         | [Oceansaver API](https://p.oceansaver.in/)                             |
+| 🧑‍💻 Creador (GitHub)     | [fedelan555](https://github.com/fedelan555)                            |
+| 📧 Gmail de Contacto     | [fedelanyt20@gmail.com](mailto:fedelanyt20@gmail.com)                  |
+| 📸 Instagram Developer   | [@fedelan.dev](https://instagram.com/fedelan.dev)                      |
+| 💬 WhatsApp Soporte      | [Ir al chat](https://wa.me/573019648280)                              |
+| 📜 Licencia MIT          | [Ver detalle](https://opensource.org/licenses/MIT)                     |
 ---
 
 ## 🧠 ¿Qué puede hacer el Bot?
