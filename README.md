@@ -15,9 +15,9 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 - 🪄 **Apodo:** *Pilar del Código*
 - 📧 **Gmail:** [fedelanyt20@gmail.com](mailto:fedelanyt20@gmail.com)
 - 🌐 **GitHub:** [fedelan555](https://github.com/fedelan555)
-- 📸 **Instagram:** [@fedelan.dev](https://instagram.com/fedelan.dev)
+- 📸 **Instagram:** [@fedelanyt](https://instagram.com/fedelanyt)
 - 🗺️ **Ubicación:** 🇦🇷 Argentina
-- 💬 **WhatsApp:** [Fedexyz](https://wa.me/573019648280)
+- 💬 **WhatsApp:** [Fedexyz](https://wa.me/5491156178758)
 
 ---
 
@@ -54,7 +54,7 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 ## 👁️ Visitantes del Repositorio
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fedelanyt130/count.svg" />
+  <img src="https://profile-counter.glitch.me/fedelan555/count.svg" />
   <p>👁️ Visitantes del Dojo 👁️</p>
 </div>
 
