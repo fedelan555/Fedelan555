@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/626sjd.jpg" width="100%" />
 </p>
 
-# ⚔️ 𝑻𝒂𝒏𝒋𝒊𝒓𝒐_𝑩𝒐𝒕 & 𝑨𝒔𝒖𝒏𝒂-𝑨𝒍 🌸
+# ⚔️ 𝑻𝒂𝒏𝒋𝒊𝒓𝒐_𝑩𝒐𝒕 🌸
 > *Respira profundo. El código también tiene alma.*
 
 Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios que elevan la experiencia digital en WhatsApp con comandos inspirados en el universo de *Kimetsu no Yaiba*. Su propósito: combatir la monotonía, proteger al usuario y entregar recursos visuales como si fueran katanas de información afilada.
@@ -55,9 +55,7 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Fedelan555/count.svg" />
-  <p>👁️ Visitantes del Repositorio 👁️
-  </p>
-</div>
+  <p>👁️ Visitantes del Repositorio 👁️ </p>
 
 ---
 
