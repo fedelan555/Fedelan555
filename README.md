@@ -54,8 +54,8 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 ## 👁️ Visitantes del Repositorio
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/fedelan555/count.svg" />
-  <p>👁️ Visitantes del Dojo 👁️</p>
+  <img src="https://profile-counter.glitch.me/fedelan555/count.svg"/>
+<p>👁️ Visitantes del Dojo 👁️</p>
 </div>
 
 ---
