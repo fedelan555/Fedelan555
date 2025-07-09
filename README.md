@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fedelanyt130/TanjiroBot/assets/banner_tanjiro.jpg" width="100%" />
+  <img src="https://files.catbox.moe/626sjd.jpg" width="100%" />
 </p>
 
 # ⚔️ 𝑻𝒂𝒏𝒋𝒊𝒓𝒐_𝑩𝒐𝒕 & 𝑨𝒔𝒖𝒏𝒂-𝑨𝒍 🌸
@@ -55,7 +55,8 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Fedelan555/count.svg" />
-  <p>👁️ Visitantes del Repositorio 👁️</p>
+  <p>👁️ Visitantes del Repositorio 👁️
+  </p>
 </div>
 
 ---
