@@ -40,7 +40,6 @@ Este es el dojo oficial de **Tanjiro_Bot** y **Asuna-Al**, dos bots legendarios 
 | 📁 Repositorio Oficial   | [TanjiroBot – GitHub](https://github.com/fedelan555/AsunaBot-Al)        |
 | 🧑‍💻 Creador (GitHub)     | [fedelan555](https://github.com/fedelan555)                            |
 | 📧 Gmail de Contacto     | [fedelanyt20@gmail.com](mailto:fedelanyt20@gmail.com)                  
-|
 | 📜 Licencia MIT          | [Ver detalle](https://opensource.org/licenses/MIT)                     |
 ---
 
